@@ -24,7 +24,7 @@ newEl.innerHTML="bangladesh";
 // var t = document.querySelectorAll("div");
 // [].map.call(t,e=>console.log(e))
 
-
+// dom project
 
 var input = document.querySelector(".inp");
 var list = document.querySelector(".tasklist");
